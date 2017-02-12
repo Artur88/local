@@ -1,0 +1,71 @@
+
+.imageWidth img {    
+    max-height: 440px; 
+    display: block;
+    margin: 0 auto;
+}
+.imageSlide {
+    border-bottom: 1px solid grey;
+}
+.locations-head {
+    text-align: center;
+}
+.customDiv {
+    margin: 3px;
+    text-align: center;
+    font-size: large;    
+}
+.imgHeight {
+  max-height: 140px;
+  width: 100%;
+}
+.aboutUs {
+    text-align: center;
+    border-right: 1px dotted black;
+    max-height: 230;
+    font-size: 14px;
+}
+.aboutUs h4 {
+    font-size: 16px;
+    font-weight: bold;
+}
+.aboutUs h4::before {
+    content: "—";
+}
+.aboutUs h4::after {
+    content: "—";
+}
+.workingWith {
+    text-align: center;
+    max-height: 230px;
+}
+.workingWith h4 {
+    font-size: 16px;
+    font-weight: bold;
+}
+.workingWith h4::before {
+    content: "—";
+}
+.workingWith h4::after {
+    content: "—";
+}
+.mySlides2 {
+    max-height: 180px;
+    display: block;
+    margin: 0 auto; 
+    
+    width: 100%;
+    height: auto;
+
+}
+
+footer {
+    background: #333;
+    color: #eee;
+    font-size: 11px;
+    padding: 20px;
+}
+ul.unstyled {
+    list-style: none;
+    padding: 0;
+}
